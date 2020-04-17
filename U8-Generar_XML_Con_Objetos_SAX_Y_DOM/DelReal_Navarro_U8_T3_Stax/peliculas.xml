@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<peliculas>
+	<pelicula nacionalidad="americana">
+		<nombre>Star Wars: Episodio V - El Imperio contraataca</nombre>
+		<director>Irvin Kershner</director>
+		<publico>Todos los publicos</publico>
+	</pelicula>
+	<pelicula nacionalidad="italiana">
+		<nombre>La vida es bella.</nombre>
+		<director>Roberto Benigni</director>
+		<publico>Todos los publicos</publico>
+	</pelicula>
+	<pelicula nacionalidad="española">
+		<nombre>Veronica</nombre>
+		<director>Director3</director>
+		<publico>Adultos</publico>
+	</pelicula>
+	<pelicula nacionalidad="rusa">
+		<nombre>El cascanueces (dibujos)</nombre>
+		<director>Director4</director>
+		<publico>Infantil</publico>
+	</pelicula>
+	<pelicula nacionalidad="francesa">
+		<nombre>Los chicos del coro</nombre>
+		<director>Christophe Barratier</director>
+		<publico>Todos los publicos</publico>
+	</pelicula>
+</peliculas>
